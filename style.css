@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0c4;
+}
+.container {
+    width: 105%;
+    margin: 20px auto;
+    background: white;
+
+}
+h1 {
+    text-align: center;
+    font-size: large;
+    color: black;
+    padding: 10px;
+}
+.noor{
+    background-color: rgb(212, 193, 193);
+}
+h2 {
+    background-color: rgb(236, 222, 222);
+    color: rgb(175, 84, 126);
+    padding: 5px;
+}
+.section {
+    margin-bottom: 20px;
+}
+.section p {
+    margin: 5px 0;
+}
+.bold {
+    font-weight: bold;
+}
+.highlight {
+    color: rgb(148, 113, 137);
+}
